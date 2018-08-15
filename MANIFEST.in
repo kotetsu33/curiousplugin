@@ -1,0 +1,6 @@
+include README.md
+include octoprint_curiousplugin/arecord.sh
+include octoprint_curiousplugin/audio_set.sh
+recursive-include octoprint_curiousplugin/templates *
+recursive-include octoprint_curiousplugin/translations *
+recursive-include octoprint_curiousplugin/static *
